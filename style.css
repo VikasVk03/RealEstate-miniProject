@@ -120,7 +120,7 @@ header .right-head a:last-child:hover {
 }
 
 .home .home-image {
-    background: url("giant-building-with-sun.jpg");
+    background: url("img/giant-building-with-sun.jpg");
     background-size: cover;
     background-position: center;
     width: 100%;
